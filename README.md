@@ -20,6 +20,6 @@ Welcome to the Pakistani Proverbs App repository! This app is a tribute to the r
 
 If you have any questions or suggestions, feel free to reach out to me:
 
-- LinkedIn: [LinkedIn Profile]([https://www.linkedin.com/in/muhammad--ehsan/])
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/muhammad--ehsan/)
 
 Let's celebrate our cultural heritage together! Pakistan Zindabad! 🇵🇰
