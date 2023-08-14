@@ -1,7 +1,5 @@
 # Pakistani Proverbs App
 
-![App Screenshot](App Screenshot.png)
-
 Welcome to the Pakistani Proverbs App repository! This app is a tribute to the rich cultural heritage of Pakistan, highlighting traditional proverbs that have been passed down through generations.
 
 ## Features
@@ -22,6 +20,6 @@ Welcome to the Pakistani Proverbs App repository! This app is a tribute to the r
 
 If you have any questions or suggestions, feel free to reach out to me:
 
-- LinkedIn: [Your LinkedIn Profile](([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/muhammad--ehsan/))
+- LinkedIn: [LinkedIn Profile]((https://www.linkedin.com/in/muhammad--ehsan/))
 
 Let's celebrate our cultural heritage together! Pakistan Zindabad! 🇵🇰
