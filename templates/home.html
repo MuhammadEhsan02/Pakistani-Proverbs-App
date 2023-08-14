@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <img src="{{ url_for('static', filename='pakistan_76_flag.png') }}" alt="Pakistan Flag">
+            <h1>Pakistani Proverbs App</h1>
+            <p>Celebrating Pakistan's Heritage</p>
+        </header>
+        <div class="proverb-box">
+            <p class="proverb">{{ proverb }}</p>
+            <p class="explanation">{{ explanation }}</p>
+        </div>
+        <footer>
+            <p>Pakistan Zindabad!</p>
+            <a href="{{ url_for('get_random_proverb') }}">Next Proverb</a>
+        </footer>
+    </div>
+</body>
+</html>
